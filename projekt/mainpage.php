@@ -15,6 +15,7 @@ include "template/bottom.php";
     <script src="js.js"></script>
 </head>
     <body>
+        <h1>AHOOOJ</h1>
         <div id = "top">
             
         </div>
